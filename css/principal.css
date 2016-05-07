@@ -1,3 +1,4 @@
+<<<<<<< HEAD:css/principal.css
 body {
     background: #00FFFF;
 }
@@ -66,3 +67,66 @@ figure {
     width: 2rem;
     height: 2rem;
 }
+=======
+body {
+    background: #F7FCE3;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #62AD09;
+    box-shadow: 0 .1rem .1rem;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+}
+
+.menubutton {
+    position: absolute;
+    top: .5rem;
+    left: .5rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: -90%;
+    background: #000000;
+    color: #FFFFFF;
+    text-align: left;
+    width: 90%;
+}
+
+.menuitem {
+    padding: 1rem;
+}
+
+main {
+    padding: 4rem 1rem 5rem 1rem;
+}
+
+figure {
+    text-align: center;
+}
+
+
+.baritem {
+    float: left;
+    width: 33%;
+    text-align: center;
+    padding: 1rem 0rem;
+}
+
+.selected {
+    background: linear-gradient(#000077, #0000FF);
+}
+
+.baritem img {
+    width: 2rem;
+    height: 2rem;
+}
+>>>>>>> 4d9a8fe682681ef1ae3600f6b4380c4966e5ea36:css/exemplo.css
