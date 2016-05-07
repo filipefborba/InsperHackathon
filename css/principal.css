@@ -55,3 +55,17 @@ figure {
     width: 2rem;
     height: 2rem;
 }
+
+.buttonformat {
+	text-align: center;
+	width: 100%;
+    height: 10%;
+}
+.buttonimg {
+    width: 50%;
+    height: 100%;
+}
+
+input#barcode {
+    background: #ccc url('barcode.png') no-repeat top center;
+    height: 2rem;
