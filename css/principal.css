@@ -51,10 +51,6 @@ figure {
     padding: 1rem 1rem;
 }
 
-.selected {
-    background: linear-gradient(#000077, #0000FF);
-}
-
 .baritem img {
     width: 2rem;
     height: 2rem;
