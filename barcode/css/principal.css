@@ -1,0 +1,72 @@
+body {
+    background: #F7FCE3;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #62AD09;
+    box-shadow: 0 .1rem .1rem;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    font-family: arial;
+}
+
+.menubutton {
+    position: absolute;
+    top: .5rem;
+    left: .5rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: -90%;
+    background: #000000;
+    color: #FFFFFF;
+    text-align: left;
+    width: 90%;
+}
+
+.menuitem {
+    padding: 1rem;
+}
+
+main {
+    padding: 4rem 1rem 5rem 1rem;
+}
+
+figure {
+    text-align: center;
+}
+
+
+.baritem {
+    float: left;
+    width: 33%;
+    text-align: center;
+    padding: 1rem 1rem;
+}
+
+.baritem img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.buttonformat {
+	text-align: center;
+	width: 100%;
+    height: 10%;
+}
+.buttonimg {
+    width: 50%;
+    height: 100%;
+}
+
+input#barcode {
+    background: #ccc url('barcode.png') no-repeat top center;
+    height: 2rem;

@@ -1,5 +1,5 @@
 #barcodevideo, #barcodecanvas, #barcodecanvasg {
-	height: 400px;
+	height: 200px;
 }	
 
 #barcodecanvasg {
@@ -14,7 +14,7 @@
 }
 
 #barcode {
-	position: relative;
+	position: center;
 }	
 
 #barcodecanvas {

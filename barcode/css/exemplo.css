@@ -1,0 +1,73 @@
+body {
+    background: #00FF00;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #FF0000;
+    box-shadow: 0 .1rem .1rem;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+}
+
+.menubutton {
+    position: absolute;
+    top: .5rem;
+    left: .5rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: -90%;
+    background: #000000;
+    color: #FFFFFF;
+    text-align: left;
+    width: 90%;
+}
+
+.menuitem {
+    padding: 1rem;
+}
+
+main {
+    padding: 4rem 1rem 5rem 1rem;
+}
+
+figure {
+    text-align: center;
+}
+
+.bar {
+    background: linear-gradient(#0000FF, #000077);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.baritem {
+    float: left;
+    width: 33%;
+    text-align: center;
+    padding: 1rem 0rem;
+}
+
+.selected {
+    background: linear-gradient(#000077, #0000FF);
+}
+
+.baritem img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.buttonimg {
+    width: 1rem;
+    height: 1rem;
+}

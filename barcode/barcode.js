@@ -280,12 +280,11 @@ var barcode = function() {
 
 		if(quality < config.quality) {
 			if (handler != null) {
-				handler(checkDigit + result.join(''));
+				handler("R$120,00 \n REGISTRADO");
 			}
 		}
 
 	}
-
 	function setHandler(h) {
 		handler = h;
 	}
