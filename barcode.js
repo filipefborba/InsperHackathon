@@ -280,7 +280,7 @@ var barcode = function() {
 
 		if(quality < config.quality) {
 			if (handler != null) {
-				handler("<p>R$120,00</p><p>REGISTRADO</p><p>Conta de gás</p>");
+				handler("<p>R$28,53</p><p>REGISTRADO</p>");
 			}
 		}
 
