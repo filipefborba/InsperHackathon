@@ -1,12 +1,12 @@
 body {
-    background: #00FF00;
+    background: #F7FCE3;
 }
 
 header {
     position: fixed;
     top: 0;
     left: 0;
-    background: #FF0000;
+    background: #62AD09;
     box-shadow: 0 .1rem .1rem;
     text-align: center;
     padding: 1rem;
@@ -43,13 +43,6 @@ figure {
     text-align: center;
 }
 
-.bar {
-    background: linear-gradient(#0000FF, #000077);
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
 
 .baritem {
     float: left;
