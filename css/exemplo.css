@@ -71,6 +71,13 @@ figure {
     background: linear-gradient(#000077, #0000FF);
 }
 
+footer {
+          position: fixed;
+          bottom: 0
+      
+
+
+}
 .baritem img {
     width: 2rem;
     height: 2rem;
