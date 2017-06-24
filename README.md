@@ -1,8 +1,8 @@
 # Ajudaí
 
-WebApp concept made for Insper's first Hackaton. We needed to show the judges how the app would work and the viability of the idea, so we made this using HTML and CSS. The app's objective is to help people organize themselves financially and have a professional's contact if they need help. We believe that with this solution, it would be possible to ease the critical financial situation several people go through.
+WebApp concept made for Insper's first Hackathon. We needed to show the judges how the app would work and the viability of the idea, so we made this using HTML and CSS. The app's objective is to be a platform for financial management and free financial consulting. We believe that with this solution, it would be possible to ease the critical financial situation several people go through.
 
-Conceito de WebApp feito para o primeiro Hackaton do Insper. Precisávamos mostrar aos jurados como o aplicativo iria funcionar e a viabilidade da ideia, então fizemos isso utilizando HTML e CSS. A proposta do aplicativo é ajudar as pessoas a se organizarem financeiramente e terem contato com um profissional caso precisem de ajuda. Acreditamos que com essa solução, seria possível amenizar a situação financeira crítica pela qual muitas pessoas passam.
+Conceito de WebApp feito para o primeiro Hackathon do Insper. Precisávamos mostrar aos jurados como o aplicativo iria funcionar e a viabilidade da ideia, então fizemos isso utilizando HTML e CSS. A proposta do aplicativo é ser uma plataforma de gestão financeira e consultoria financeira gratuita. Acreditamos que com essa solução, seria possível amenizar a situação financeira crítica pela qual muitas pessoas passam.
 
 ________________________
 
